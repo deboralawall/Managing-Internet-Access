@@ -1,0 +1,5 @@
+Placeholder for GerenteSNMP.jar executable
+This file should be replaced with the actual compiled Java JAR file.
+To generate this file, compile the Java source code:
+  javac -cp lib/snmp4j-2.8.18.jar src/br/udesc/gerencia/GerenteSNMP.java
+  jar cvfm GerenteSNMP.jar manifest.txt br/udesc/gerencia/GerenteSNMP.class
